@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Active Directory (AD) Penetration Testing Notes
-nav_order: 
+nav_order: 2
 has_children: true
 permalink: /ad/
 ---
