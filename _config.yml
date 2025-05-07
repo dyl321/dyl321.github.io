@@ -1,5 +1,61 @@
-title: "Dyl's Technical blog"
-description: Notes and writeups on cybersecurity and technical topics
+title: Dyls Pentesting Notes
+description: My collection of penetration testing notes and techniques
 show_downloads: false
 google_analytics: # Add your tracking ID if desired
-theme: jekyll-theme-minimal
+remote_theme: pmarsceill/just-the-docs
+
+# Enable navigation structure
+enable_nav_search: true
+
+# Color scheme
+color_scheme: dark
+
+# Collections for different categories
+collections:
+  webapp:
+    permalink: "/:collection/:path/"
+    output: true
+  ad:
+    permalink: "/:collection/:path/"
+    output: true
+  wireless:
+    permalink: "/:collection/:path/"
+    output: true
+  azure:
+    permalink: "/:collection/:path/"
+    output: true
+
+# Define navigation structure
+defaults:
+  - scope:
+      path: ""
+      type: webapp
+    values:
+      layout: default
+      nav_order: 1
+      has_children: false
+      parent: "Web App Pentesting"
+  - scope:
+      path: ""
+      type: ad
+    values:
+      layout: default
+      nav_order: 2
+      has_children: false
+      parent: "AD Pentesting"
+  - scope:
+      path: ""
+      type: wireless
+    values:
+      layout: default
+      nav_order: 3
+      has_children: false
+      parent: "Wireless Pentesting"
+  - scope:
+      path: ""
+      type: azure
+    values:
+      layout: default
+      nav_order: 4
+      has_children: false
+      parent: "Azure Pentesting"
