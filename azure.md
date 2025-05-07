@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web App Pentesting Notes
+title: Azure Pentesting Notes
 nav_order: 1
 has_children: true
 permalink: /azure/
