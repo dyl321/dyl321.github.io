@@ -1,3 +1,5 @@
-title: Your Technical Blog
-description: Technical notes and security writeups
+title: "Dyl's Technical blog"
+description: Notes and writeups on cybersecurity and technical topics
+show_downloads: false
+google_analytics: # Add your tracking ID if desired
 theme: jekyll-theme-minimal
