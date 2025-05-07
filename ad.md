@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Web App Pentesting
+title: Active Directory (AD) Penetration Testing Notes
 nav_order: 1
 has_children: true
-permalink: /adpentestnotes/
+permalink: /ad/
 ---
 
-# Active Directory (AD) Penetration Testing
+# Active Directory (AD) Penetration Testing Notes
 
 This section contains notes and techniques for web application penetration testing.
