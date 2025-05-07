@@ -6,6 +6,6 @@ has_children: true
 permalink: /azure/
 ---
 
-# Azure Penetration Testing Notes
+# Azure Penetration Testing Notes - COMING SOON!!!
 
 This section contains notes and techniques for web application penetration testing.
