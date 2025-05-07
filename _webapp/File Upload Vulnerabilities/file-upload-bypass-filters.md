@@ -2,7 +2,7 @@
 layout: default
 title: Bypassing Upload Filters
 parent: File Upload Vulnerabilities
-grand_parent: Web Application Pentesting
+grand_parent: Web App Pentesting
 ---
 
 # Bypassing Upload Filters
