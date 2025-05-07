@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Azure Pentesting Notes
-nav_order: 1
+nav_order: 
 has_children: true
 permalink: /azure/
 ---
