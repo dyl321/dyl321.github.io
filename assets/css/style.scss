@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.command-block {
+  background-color: #1e1e1e;
+  border-radius: 5px;
+  border-left: 3px solid #4CAF50;
+  font-family: 'Consolas', 'Monaco', monospace;
+  margin: 1.5em 0;
+  overflow: auto;
+  padding: 0.5em;
+}
+
+.command-number {
+  color: #838383;
+  display: inline-block;
+  margin-right: 1em;
+  user-select: none;
+}
+
+.command-content {
+  color: #f0f0f0;
+}
